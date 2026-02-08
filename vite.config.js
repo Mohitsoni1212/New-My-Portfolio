@@ -1,8 +1,7 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
-// https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/New-My-Portfolio/', // ✅ GitHub Pages or Netlify repo folder ke liye
+  base: '/New-My-Portfolio/',   // ✅ GitHub repo ka exact name
 })
