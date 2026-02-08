@@ -1,16 +1,59 @@
-# React + Vite
+# 💻 Mohit Soni — Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website built with **React.js**, **Framer Motion**, and **modern UI design** principles.  
+It showcases my work, projects, skills, and journey as a **Full-Stack Web Developer** passionate about building modern, scalable, and user-friendly web applications.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🖼️ Website Screenshots
 
-## React Compiler
+<p align="center">
+  <img src="./public/1 (4).png" width="800" />
+</p>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<p align="center">
+  <img src="./public/1 (1).png" width="800" />
+</p>
 
-## Expanding the ESLint configuration
+<p align="center">
+  <img src="./public/1 (5).png" width="800" />
+</p>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<p align="center">
+  <img src="./public/1 (6).png" width="800" />
+</p>
+
+<p align="center">
+  <img src="./public/1 (7).png" width="800" />
+</p>
+
+---
+
+## 🚀 Features
+
+- 🎨 **Modern UI/UX** with dark aesthetic theme  
+- ⚡ Smooth **Framer Motion** animations  
+- 💼 **Projects, Resume, and Contact sections**  
+- 🧠 Clean and structured Full-Stack portfolio  
+- 📨 Functional contact form powered by **EmailJS**  
+- 📱 Fully responsive across all devices  
+
+---
+
+## 🛠️ Tech Stack
+
+| Category            | Tools / Libraries                        |
+| ------------------- | ---------------------------------------- |
+| **Frontend**        | React.js, HTML5, CSS3, JavaScript (ES6+) |
+| **Styling**         | Tailwind CSS / Custom CSS                |
+| **Animation**       | Framer Motion                            |
+| **Contact Form**    | EmailJS                                  |
+| **Version Control** | Git & GitHub                             |
+| **Deployment**      | Vercel / Netlify                         |
+
+---
+
+## ⚙️ Setup Instructions
+
+
+#
